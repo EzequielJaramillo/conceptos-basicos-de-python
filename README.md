@@ -1,7 +1,5 @@
 # conceptos-basicos-de-python
 
-# Conceptos básicos de Python
-
 Este repositorio reúne lecciones prácticas para iniciar en **Python** desde cero:
 sintaxis esencial, control de flujo, estructuras de datos, **comprensiones**, funciones
 y buenas prácticas con **PEP 8**.
